@@ -4,7 +4,7 @@ Software Developer 🚵🏽‍♂️
 --------------------------
 I've been learning React for 2 years
 
-*   🌍  I'm based in Udonthani Thailand
+<!-- *   🌍  I'm based in Udonthani Thailand -->
 *   ✉️  You can contact me at [yosprasong3456@gmail.com](mailto:yosprasong3456@gmail.com)
 
 ### Skills
